@@ -1,6 +1,5 @@
 # Live Project links
 https://instasurefinance.co.nz/<br>
-https://thedesignaffair.in/<br>
 https://holyhookfoods.com/<br>
 https://sweetsocks.ch/<br>
 https://asandex.com/<br>
