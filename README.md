@@ -1,5 +1,4 @@
 # Live Project links
-https://trackstack-six.vercel.app/ (React.js)<br>
 https://divinefitness.fit/<br>
 https://sierrapeakscapital.com/<br>
 https://distinctivehaus.com/<br> https://renewmedgrp.com/<br>
